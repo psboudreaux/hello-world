@@ -20,3 +20,5 @@ inrix has good traffic data
 R functions, publish to web (with private?) avail on enterprise
 
 turn your ids to strings,
+
+change for no good reason.
