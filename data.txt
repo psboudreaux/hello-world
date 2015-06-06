@@ -1,0 +1,22 @@
+﻿Troy Heerwagen - nice data vis eamples for tableau
+data.seattle.gov
+	painting freemont bridge
+	data of bicicle counts
+
+bucket or ruler based on individual data points or continuos data for vis
+
+	
+Tableau takes in
+	excel, csv, OData
+	
+public.tableau.com - free software for pulbic data
+
+top set date filter - discrete buucket
+bottom set, put each section in a bucket
+
+wunderground good for getting weather data exports
+inrix has good traffic data
+
+R functions, publish to web (with private?) avail on enterprise
+
+turn your ids to strings,
